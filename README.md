@@ -4,7 +4,7 @@ An isolated multi-stage microservice transforming standard user text streams int
 
 ## 👥 Authors & Core Contributors
 
-**Jacob Omondi** *Lead Full Stack Developer & Technical Specialist* Lake Victoria Region, Kisumu County, Kenya  
+**Jack Omondi** *Lead Full Stack Developer, Tech Innovator & Technical Specialist*  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogondajack)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackomosh6gmail.com)
